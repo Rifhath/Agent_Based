@@ -1,4 +1,4 @@
-**Optimizing Auction Strategies Using Game Theory**
+# Optimizing Auction Strategies Using Game Theory
 
 This repository contains the implementation and experimental results of a bot designed for optimizing auction-based collection games using advanced bidding strategies. The project leverages game theory, auction theory, and machine learning techniques to enhance performance in competitive auction scenarios.
 
